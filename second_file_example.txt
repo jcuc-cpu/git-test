@@ -1,0 +1,2 @@
+doing this example on my own.
+I created this file from the command line, now I'm editing it and then I will stage it, commit it and push it to GitHub!
